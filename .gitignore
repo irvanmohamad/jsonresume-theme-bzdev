@@ -1,0 +1,9 @@
+public
+jsonresume-theme-bzdev.iml
+node_modules
+npm-debug.log
+resume.html
+resume.pdf
+tests
+.DS_Store
+.idea

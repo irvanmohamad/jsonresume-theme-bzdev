@@ -1,0 +1,119 @@
+{
+  "basics": {
+    "name": "Name",
+    "label": "Label",
+    "picture": "https://github.com/irvanmohamad/irvanmohamad.github.io/raw/main/img/profile-sm.png",
+    "birth": "Birth",
+    "location": {
+      "address": "Address",
+      "postalCode": "12000",
+      "city": "City",
+      "countryCode": "ID",
+      "region": "Region"
+    },
+    "phone": "0812-0000-0000",
+    "email": "email@gmail.com",
+    "website": "https://localhost",
+    "profiles": [
+      {
+        "network": "github",
+        "username": "github-username",
+        "url": "https://github.com/github-username"
+      },
+      {
+        "network": "bookmark",
+        "username": "medium-username",
+        "url": "https://medium.com/@username"
+      }
+    ]
+  },
+  "work": [
+    {
+      "position": "Position",
+      "company": "Company",
+      "startDate": "2010-12-01",
+      "endDate": "2020-12-30",
+      "summary": "Summary"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Area",
+      "url": "https://localhost",
+      "studyType": "Master",
+      "startDate": "2012-01-01",
+      "endDate": "2012-01-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Title",
+      "date": "2017-12-01",
+      "awarder": "Awarder",
+      "summary": "-"
+    }
+  ],
+  "training": [
+    {
+      "title": "Title",
+      "date": "2017-12-01",
+      "trainer": "Trainer",
+      "summary": "-"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Brainfuck",
+      "level": "100%"
+    }
+  ],
+  "technology": [
+    {
+      "area": "Hacking",
+      "tools": ["Nmap"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Eskimo",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Psychology"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Name",
+      "summary": "Summary",
+      "website": "http://localhost",
+      "company": "Some Company",
+      "job": [
+        "Barista"
+      ],
+      "technology": [
+        "Java"
+      ],
+      "startDate": "2010-12-01",
+      "endDate": "2010-12-01"
+    }
+  ],
+  "open-projects": [
+    {
+      "name": "Project Name",
+      "summary": "Summary",
+      "website": "http://localhost",
+      "technology": [
+        "Java"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

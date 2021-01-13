@@ -1,0 +1,33 @@
+{
+  "name": "jsonresume-theme-bzdev",
+  "version": "0.0.4",
+  "description": "Theme for JSON Resume by Mohamad Irvan Faradian",
+  "author": "Mohamad Irvan Faradian",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvanmohamad/jsonresume-theme-bzdev.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irvanmohamad/jsonresume-theme-bzdev/issues"
+  },
+  "homepage": "https://github.com/irvanmohamad/jsonresume-theme-bzdev",
+  "scripts": {
+    "release:prepare": "git checkout master && git pull && npm version patch -m \"Release: %s\""
+  },
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "handlebars-utils": "^1.0.6",
+    "marked": "^1.2.7"
+  },
+  "engineStrict": true,
+  "engines": {
+    "node": ">=10"
+  },
+  "main": "index.js",
+  "keywords": [
+    "jsonresume",
+    "jsonresume-theme",
+    "resume"
+  ]
+}
